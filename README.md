@@ -59,3 +59,5 @@ I have to agree with the "medium" rating in this case.
 It's not trivial, it's difficult to get correct.
 For Cisco, it might be a way of getting at a candidate's
 bitwise-operation knowledge.
+If the job in question does not do a lot of bitwise operations,
+this is not a great question.
